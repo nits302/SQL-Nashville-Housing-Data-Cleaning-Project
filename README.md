@@ -42,26 +42,22 @@ the 'PropertyAddress' column, populating and splitting the information into 'add
 We adjusted the format of the 'SaleDate' column and corrected inconsistencies in entries. We also 
 identified and removed duplicates to ensure data integrity.
 
-Conclusions
-
-As a result of these efforts, we obtained complete and accurate data in key columns 
+- Conclusions
+    - As a result of these efforts, we obtained complete and accurate data in key columns 
 like 'SaleDate','SalePrice','PropertyAddress', 'LegalReference', and 'SoldAsVacant'.
-
-However, it's important to note that around 60% of records, approximately 30,000 entries, lack information 
+    - However, it's important to note that around 60% of records, approximately 30,000 entries, lack information 
 in critical columns like 'Acreage', 'LandValue', 'BuildingValue', 'TotalValue', 'YearBuilt', 'Bedrooms', 
 'FullBath', and 'HalfBath'. Next, with that said, several options are presented for moving forward.
 
-Recommended Options
+- Recommended Options
 
-Analysis with Available Information: Consider the possibility to analyze with the available information. 
+    - Analysis with Available Information: Consider the possibility to analyze with the available information. 
 Although a lot of data will be missing, valuable insights can still be gained from the existing data.
-
 Consider conducting two separate analyses for a comprehensive understanding of the dataset. 
-The first focuses on sales, dates, prices, and geographic locations, utilizing the complete dataset
+    - The first focuses on sales, dates, prices, and geographic locations, utilizing the complete dataset
 for a thorough examination. The second delves into property values and details, using a reduced dataset but 
 potentially providing valuable insights as well.
-
-Seek Additional Information: Explore the ways to obtain the missing information, whether through 
+    - Seek Additional Information: Explore the ways to obtain the missing information, whether through 
 additional sources, collaborations, or the possibility of completing the data through new acquisitions.
 
 5. Finished products
