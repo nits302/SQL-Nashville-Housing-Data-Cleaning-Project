@@ -32,13 +32,11 @@ The Nashville Housing project is about cleaning a real estate dataset for Nashvi
 
 4. Project Recap and Recommended Options
 
-Recap¶
-
-In this project, we tackled the crucial task of cleaning the 'Nashville Housing' dataset to ensure
+- Recap
+    - In this project, we tackled the crucial task of cleaning the 'Nashville Housing' dataset to ensure
 it's ready for detailed analysis. After understanding the problem and objectives for subsequent analyses,
 we collected the dataset and proceeded with the cleaning process.
-
-We began by identifying issues through a data quality check, addressing concerns such as null
+   - We began by identifying issues through a data quality check, addressing concerns such as null
 values and unwanted spaces using the TRIM function. We conducted thorough cleaning of 
 the 'PropertyAddress' column, populating and splitting the information into 'address' and 'city'. 
 We adjusted the format of the 'SaleDate' column and corrected inconsistencies in entries. We also 
