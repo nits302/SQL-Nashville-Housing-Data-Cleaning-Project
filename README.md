@@ -1,4 +1,4 @@
-# SQL-Nashville-Housing-Data-Quality-Assessment
+# [SQL] Nashville Housing Data Quality Assessment
 The Nashville Housing project is about cleaning a real estate dataset for Nashville market by standardizing data formats, removing duplicates, and improving data completeness.
 1. About Project
 - The dataset contained information about property sales, rentals, and other real estate transactions in Nashville Housing market.
